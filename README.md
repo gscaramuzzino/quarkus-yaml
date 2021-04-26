@@ -1,12 +1,8 @@
-# Movie PanacheRepository - Quarkus Hibernate ORM
+# Quarkus YAML extension
 
-A simple project to show how to use PanacheRepository in Quarkus using PostgreSQL.
-In the project you will see how to create a Movie Entity, a CRUD REST Endpoint to get, create and delete a Movie using the Hibernate-ORM PanacheRepository.
+A simple project to show how to use the YAML extension in Quarkus.
 
-Quarkus Hibernate ORM PanacheRepository with PostgreSQL
-
-"Hibernate ORM is the de facto JPA implementation and offers you the full breadth of an Object Relational Mapper. It makes complex mappings possible, but it does not make simple and common mappings trivial. Hibernate ORM with Panache focuses on making your entities trivial and fun to write in Quarkus.
-"
+"YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted"
 
 Follow the video tutorial:
 
